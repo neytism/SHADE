@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Spike
+  - Enemy
+  - Bullet
+  - InvisiWall
+  - FallDetector
+  - RespawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - EnemyWall
+  - Platform
+  - Ground
+  - Bullet
+  - PickUp
+  - Dog
+  - Cage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 320840315
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 135269725
+    locked: 0
+  - name: Foreground
+    uniqueID: 2285292407
+    locked: 0
+  - name: UI
+    uniqueID: 3408787639
+    locked: 0
